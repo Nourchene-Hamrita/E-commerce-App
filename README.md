@@ -2,7 +2,8 @@ This repository pairs an e-commerce API with a React administration dashboard. A
 
 ## 🧱 Architecture Overview
 
-<img width="8933" height="9438" alt="diagram (2)" src="https://github.com/user-attachments/assets/8da339a1-e53a-4158-8e28-5027a87e13fe" />
+<img width="8933" height="9273" alt="diagram (2)" src="https://github.com/user-attachments/assets/8a663a8f-103c-4567-a360-bf46d730855d" />
+
 
 ## 📁 Structure
 
