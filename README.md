@@ -1,1 +1,1 @@
-[![Architecture diagram of nourchene-hamrita/e-commerce-app](https://gitdiagram.com/nourchene-hamrita/e-commerce-app/diagram.png)](https://gitdiagram.com/nourchene-hamrita/e-commerce-app?utm_source=readme&utm_medium=picture)
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/nourchene-hamrita/e-commerce-app?utm_source=readme&utm_medium=badge)
